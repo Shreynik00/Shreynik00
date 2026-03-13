@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=DevOps+Engineer;Cybersecurity+Enthusiast;MERN+Stack+Developer;AWS+Cloud+Learner;Automation+with+n8n&center=true&width=500&height=45">
 </p>
 
-<h3 align="center">🚀 DevOps • Cybersecurity • MERN Stack Developer</h3>
+<h3 align="center">🚀 Cybersecurity • MERN Stack Developer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?lines=DevOps+Engineer;Cybersecurity+Enthusiast;MERN+Stack+Developer;AWS+Cloud+Learner;Automation+with+n8n&center=true&width=500&height=45">
